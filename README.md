@@ -1,16 +1,17 @@
-## Hi there 👋
+##👋 Olá, eu sou a Patricia .
 
-<!--
-**pattyheiden/pattyheiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedora de Software React**
 
-Here are some ideas to get you started:
+- Cursando Sistemas de Informação na Unifatecie
+- Estudando Java (+DevsBLU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🎯 Objetivo
+Busco evoluir continuamente como desenvolvedora, criando soluções escaláveis, eficientes e que gerem impacto para usuários e empresas.
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pattyheiden&show_icons=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattyheiden&layout=compact"/>
+
+</div>
